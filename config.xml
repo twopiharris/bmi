@@ -5,10 +5,11 @@
         versionCode="10" 
         version   = "1.0.0">
 
-    <name>PhoneGap Example</name>
+    <name>BMI Calculator</name>
 
     <description>
-        An example for phonegap build docs. 
+        Calculates BMI (Body Mass Index) as an example
+        for CSCI N300. 
     </description>
 
     <author href="https://www.aharrisbooks.net" email="andy@aharrisbooks.net">
